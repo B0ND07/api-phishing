@@ -1,0 +1,11 @@
+regex
+urllib3==1.26.6
+uvicorn
+fastapi
+pydantic
+gunicorn
+uvloop
+httptools
+numpy
+scikit-learn
+tensorflow-cpu
